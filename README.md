@@ -1,6 +1,6 @@
 # guitar-hero-world-tour-custom-edition
 
-a custom edition of guitar hero world tour stripped out of all songs and prepared for custom
+a custom edition of guitar hero world tour stripped out of all songs and prepared for customs
 
 Features:
 	Uses a different save file
