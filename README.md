@@ -4,9 +4,17 @@ a custom edition of guitar hero world tour stripped out of all songs and prepare
 
 Features:
 	Uses a different save file
+	
+	
 	option to use black background
+	
+	
 	all cheats unlocked by default
+	
+	
 	option to use pad to play instruments
+	
+	
 	option to enable debug menu (doesn't enable select viewer)
 
 To make customs use honeycomb to convert the custom to ghwt pc then remove the "a" at the beggining of the chart file name and copy it to DATA\SONGS
