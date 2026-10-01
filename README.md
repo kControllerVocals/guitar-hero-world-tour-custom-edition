@@ -3,7 +3,8 @@
 a custom edition of guitar hero world tour stripped out of all songs and prepared for customs
 
 Features:
-	Uses a different save file
+	
+-	Uses a different save file
 
 -	option to use black background
 	
