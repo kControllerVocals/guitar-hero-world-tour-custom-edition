@@ -1,0 +1,8 @@
+goodgod_guitar_markers_text_e5fa3adf = qs("Intro")
+goodgod_guitar_markers_text_c5cccaf7 = qs("Verse 1")
+goodgod_guitar_markers_text_c85c2953 = qs("Chorus 1")
+goodgod_guitar_markers_text_5cc59b4d = qs("Verse 2")
+goodgod_guitar_markers_text_515578e9 = qs("Chorus 2")
+goodgod_guitar_markers_text_9687f060 = qs("Bridge")
+goodgod_guitar_markers_text_2652487f = qs("Chorus 3")
+goodgod_guitar_markers_text_eda21fe1 = qs("Outro")

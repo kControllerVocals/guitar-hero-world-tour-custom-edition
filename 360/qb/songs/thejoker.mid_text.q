@@ -1,0 +1,7 @@
+thejoker_guitar_markers_text_c5cccaf7 = qs("Verse 1")
+thejoker_guitar_markers_text_c85c2953 = qs("Chorus 1")
+thejoker_guitar_markers_text_2ec82191 = qs("Solo 1")
+thejoker_guitar_markers_text_5cc59b4d = qs("Verse 2")
+thejoker_guitar_markers_text_515578e9 = qs("Chorus 2")
+thejoker_guitar_markers_text_b7c1702b = qs("Solo 2")
+thejoker_guitar_markers_text_2bc2abdb = qs("Verse 3")
