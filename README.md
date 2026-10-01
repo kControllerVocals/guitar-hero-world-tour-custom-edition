@@ -24,4 +24,6 @@ Keep in mind that everytime you add or remove a custom your save will become unu
 
 To have your customs show up in quickplay you'll need to use the Unlock All option in the mod menu
 
-There's no PS3 version because the game kept crashing when loading a save and i couldn't disable saving. PS3 has no games
+There's no PS3 version because the game kept crashing when loading a save and i couldn't disable saving.
+
+PS3 has no games
